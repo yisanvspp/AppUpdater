@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppUpdater</string>
+    <string name="update">升级</string>
+</resources>
